@@ -13,6 +13,7 @@
 		B919D38A2C12C38F00175C71 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = B919D3892C12C38F00175C71 /* Base */; };
 		B919D38C2C12C39000175C71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B919D38B2C12C39000175C71 /* Assets.xcassets */; };
 		B919D38F2C12C39000175C71 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = B919D38E2C12C39000175C71 /* Base */; };
+		B919D3972C12C40F00175C71 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B919D3962C12C40F00175C71 /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B919D38B2C12C39000175C71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B919D38E2C12C39000175C71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B919D3902C12C39000175C71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B919D3962C12C40F00175C71 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B919D3822C12C38F00175C71 /* AppDelegate.swift */,
 				B919D3842C12C38F00175C71 /* SceneDelegate.swift */,
 				B919D3862C12C38F00175C71 /* ViewController.swift */,
+				B919D3962C12C40F00175C71 /* CircleView.swift */,
 				B919D3882C12C38F00175C71 /* Main.storyboard */,
 				B919D38B2C12C39000175C71 /* Assets.xcassets */,
 				B919D38D2C12C39000175C71 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B919D3972C12C40F00175C71 /* CircleView.swift in Sources */,
 				B919D3872C12C38F00175C71 /* ViewController.swift in Sources */,
 				B919D3832C12C38F00175C71 /* AppDelegate.swift in Sources */,
 				B919D3852C12C38F00175C71 /* SceneDelegate.swift in Sources */,
